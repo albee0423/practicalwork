@@ -1,0 +1,37 @@
+
+  body {
+  background-color: #f7f7f7;
+  font-family: "Poppins", sans-serif;
+}
+  .centered-heading {
+        text-align: center;
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }  
+    form {
+  max-width: 900px;
+  margin: 40px auto;
+  background: #ffffff;
+  padding: 30px 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+    .form-control {
+    width: 100% !important;
+  }
+  .col-sm-10 {
+    flex: 1;
+  }
+  label {
+  font-weight: 500;
+}
+button {
+  padding: 10px 25px;
+  border-radius: 5px;
+}
+
+
+ 
