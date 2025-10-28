@@ -22,11 +22,11 @@ Implements the following interactive functions:
 - ChatGPT
 
 ## Screenshot
-![screenshot](images/screenshot1.png)
-![screenshot](images/screenshot2.png)
-![screenshot](images/screenshot3.png)
-![screenshot](images/screenshot4.png)
-![screenshot](images/screenshot5.png)
+![screenshot](image/screenshot1.png)
+![screenshot](image/screenshot2.png)
+![screenshot](image/screenshot3.png)
+![screenshot](image/screenshot4.png)
+![screenshot](image/screenshot5.png)
 
 ## Installation
 1. Clone this repository
